@@ -1,0 +1,6 @@
+count(begin, end, x) : tim so gtri = x trong mang
+min_element(begin, end): return ptu nho nhat trong mang duoi dang it
+max_element(begin, end): return ptu lon nhat trong mang duoi dang it
+sort(begin, end, smp()): sap xep co dien kien
+lower_bound/upper_bound:...
+cmp a>b -> giam
